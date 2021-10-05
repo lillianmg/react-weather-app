@@ -7,7 +7,8 @@
     font-size: 14px;
     margin: 10px 0;
     text-align: center;
-    color: #8a45b3;
+    color: hsl(277, 8%, 32%);
+    text-shadow: #8a45b3;
 }
 
 body {
